@@ -231,7 +231,6 @@ const data = {
       ],
       response: '24 combos'
     },
-  
   ]
 }
 
